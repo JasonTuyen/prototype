@@ -1,6 +1,19 @@
 # prototype
 A repository to hold my smaller projects that aren't big enough to have their own repository.
 
-* Clicker - A idle clicking game. Complete.
-* List - A simple todo list. Complete.
-* rps - A rock,paper,scissors game. Complete.
+* Clicker
+  * An idle clicking game. 
+  * Made with HTML/CSS/JS.
+  * Complete.
+* List
+  * A simple todo list. 
+  * Made with HTML/CSS/JS 
+  * Complete.
+* rps
+  * A rock, paper, scissors game. 
+  * Made with Java.
+  * Complete.
+* watch-together
+  * A Rabb.It replacement essetially it's a web app that let's friend watch videos together.
+  * Made with HTML/CSS/JS
+  * Incomplete
