@@ -7,8 +7,12 @@ A repository to hold my smaller projects that aren't big enough to have their ow
   * Complete.
 * List
   * A simple todo list. 
-  * Made with HTML/CSS/JS 
+  * Made with HTML/CSS/JS. 
   * Complete.
+* calculator
+  * A simple calculator.
+  * Made with HTML/CSS/JS.
+  * Incomplete
 * rps
   * A rock, paper, scissors game. 
   * Made with Java.
