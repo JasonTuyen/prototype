@@ -12,7 +12,7 @@ A repository to hold my smaller projects that aren't big enough to have their ow
 * calculator
   * A simple calculator.
   * Made with HTML/CSS/JS.
-  * Incomplete
+  * Complete.
 * rps
   * A rock, paper, scissors game. 
   * Made with Java.
