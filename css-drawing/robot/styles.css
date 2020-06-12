@@ -1,0 +1,39 @@
+.wire{
+  width: 5px;
+  height: 0;
+  border: 5px solid transparent;
+  border-top: 10px solid blue;
+  border-bottom: 80px solid grey;
+  position: relative;
+  left:140px;
+}
+.face{
+  background: radial-gradient(circle, white 15%, transparent 40%), grey;
+  background-size: 75px 150px;
+  height: 150px;
+  width: 150px;
+  border-radius: 20px 20px 0 0;
+  border-bottom: 30px solid blue;
+  position: relative;
+  left: 110px;
+}
+.torso{
+  background:grey;
+  width:30px;
+  height:0;
+  border:100px solid grey;
+  border-radius:40px;
+  position:relative;
+  left:70px;
+}
+.wheel{
+  height:40px;
+  width:40px;
+  background:grey;
+  border:20px solid black;
+  border-radius:40px;
+  position:relative;
+  top:85px;
+  left:-25px;
+  z-index:-1;
+}
