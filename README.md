@@ -1,5 +1,5 @@
 # prototype
-A repository to hold my smaller projects that aren't big enough to have their own repository. I will add demo links soon.
+A repository to hold my smaller projects that aren't big enough to have their own repository. **I will add demo links soon.**
 
 * Clicker
   * An idle clicking game. 
