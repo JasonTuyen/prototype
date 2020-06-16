@@ -13,11 +13,11 @@ A repository to hold my smaller projects that aren't big enough to have their ow
   * A simple calculator.
   * Made with HTML/CSS/JS.
   * Complete.
-* rps
-  * A rock, paper, scissors game. 
-  * Made with Java.
-  * Complete.
 * css-drawing
   * Artwork made with CSS.
   * Made with HTML/CSS/JS.
   * Ongoing.
+* rps
+  * A rock, paper, scissors game. 
+  * Made with Java.
+  * Complete.
