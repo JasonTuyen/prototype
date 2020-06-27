@@ -1,0 +1,66 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	background: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.pumpkin{
+  width: 300px;
+	height: 200px;
+	background: orange;
+	border: 5px;
+	border-radius: 70%/110%;
+	position: relative;
+  z-index: 1;
+	box-shadow: 0 0px 50px orange;
+}
+
+.pumpkin .stem{
+  width: 20px;
+  height: 40px;
+	background: green;
+	position: absolute;
+	left: 140px;
+	top: -40px;
+	z-index: -1;
+	box-shadow: inset 0 0px 10px black;
+}
+
+.pumpkin .eye{
+  width: 0;
+	height: 0;
+	position: absolute;
+  top: 50px;
+	border-top: 40px solid transparent;
+}
+
+.pumpkin .eye.right{
+	right: 80px;
+	border-left: 40px solid black;
+}
+
+.pumpkin .eye.left{
+	left: 80px;
+	border-right: 40px solid black;
+}
+
+.pumpkin .mouth{
+	width: 80px;
+	height: 40px;
+	position: absolute;
+	bottom: 30px;
+	border-bottom: 20px solid black;
+}
+
+.pumpkin .mouth.right{
+	right: 70px;
+	border-radius: 0 0 100% 0;
+}
+
+.pumpkin .mouth.left{
+	left: 70px;
+	border-radius: 0 0 0 100%;
+}
