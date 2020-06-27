@@ -1,10 +1,3 @@
-/*
- * Author:   Jason Tuyen
- * Created:  2017
- * Revisted: 2019
- * This program lets you play rock-paper-scissor against a computer
- */
-
 import java.util.*;
 
 public class RPS{
