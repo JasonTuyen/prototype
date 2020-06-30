@@ -1,0 +1,19 @@
+#square{
+  margin: 0 auto;
+  width:125px;
+  height:90px;
+  top:101px;
+  background:wheat;
+  position:relative;
+  z-index:1;
+  border:solid black;
+}
+
+#rectangle {
+  margin: 0 auto;
+	width: 400px;
+	height: 100px;
+	border-radius: 50px / 50px;
+	background: tan;
+  border: solid black;
+}
