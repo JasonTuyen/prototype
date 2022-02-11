@@ -1,5 +1,5 @@
 # prototype
-A repository to hold my smaller projects that aren't big enough to have their own repository. **I will add demo links soon.**
+A repository to hold my smaller projects that aren't big enough to have their own repository. **I will add specific demo links soon. For now, most of my code snippets will live here: https://codepen.io/jasontuyen**
 
 * Clicker
   * An idle clicking game. 
