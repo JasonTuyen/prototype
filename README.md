@@ -1,5 +1,5 @@
 # prototype
-A repository to hold my smaller projects that aren't big enough to have their own repository. **I will add specific demo links soon. For now, most of my code snippets will live here: https://codepen.io/jasontuyen**
+A repository to hold my smaller projects that aren't big enough to warrant their own repository. **DEMO LINKS COMING SOON**
 
 * Miscellaneous Code Snippets
   * [Codepen link for reusable code.](https://codepen.io/jasontuyen)
