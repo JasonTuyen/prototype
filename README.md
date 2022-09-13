@@ -1,8 +1,8 @@
 # prototype
-A repository to hold my smaller projects that aren't big enough to warrant their own repository. **DEMO LINKS COMING SOON**
+A repository to hold my smaller projects that aren't big enough to warrant their own repository.
 
-* Miscellaneous Code Snippets
-  * [Codepen link for reusable code.](https://codepen.io/jasontuyen)
+* [Miscellaneous Code Snippets](https://codepen.io/jasontuyen)
+  * Reusuable code avaliable on my codepen page.
   * Made with HTML/CSS/JS
   * Ongoing.
 * Clicker
