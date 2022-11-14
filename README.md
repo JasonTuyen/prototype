@@ -1,5 +1,5 @@
 # prototype
-A repository to hold my smaller projects that aren't big enough to warrant their own repository.
+A repository to hold my projects that aren't significant enough to warrant their own repository.
 
 * [Miscellaneous Code Snippets](https://codepen.io/collection/pgzkWW)
   * Reusuable code snippets on my codepen page.
@@ -19,7 +19,7 @@ A repository to hold my smaller projects that aren't big enough to warrant their
   * Complete.
 * css-drawing
   * Artwork made with CSS.
-  * Made with HTML/CSS/JS.
+  * Made with HTML/CSS.
   * Ongoing.
 * rps
   * A rock, paper, scissors game. 
