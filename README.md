@@ -1,8 +1,8 @@
 # prototype
-A repository to hold my projects that aren't significant enough to warrant their own repository.
+A repository to hold my projects that aren't significant enough to warrant their own repository. Click on the links for a live demo.
 
 * [Miscellaneous Code Snippets](https://codepen.io/collection/pgzkWW)
-  * Reusuable code snippets on my codepen page.
+  * Miscellaneous collection of code snippets.
   * Made with HTML/CSS/Javascript.
   * Ongoing.
 * Clicker
@@ -17,7 +17,7 @@ A repository to hold my projects that aren't significant enough to warrant their
   * A simple calculator.
   * Made with HTML/CSS/Javascript.
   * Complete.
-* css-drawing
+* [css-drawing](https://codepen.io/collection/BNmkxe)
   * Artwork made with CSS.
   * Made with HTML/CSS.
   * Ongoing.
