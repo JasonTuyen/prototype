@@ -1,2 +1,2 @@
 # Clicker
-A basic cookie clicker game built with javascript
+An idle cookie clicker game made with HTML/CSS/Javascript.
