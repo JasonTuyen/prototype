@@ -21,6 +21,10 @@ A repository to hold my projects that aren't significant enough to warrant their
   * Artwork made with CSS.
   * Made with HTML/CSS.
   * Ongoing.
+* link-in-bio
+  * A link in bio page that used to be my personal website.
+  * Made with React/CSS.
+  * Complete.
 * rps
   * A rock, paper, scissors game. 
   * Made with Java.
